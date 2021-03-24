@@ -1,0 +1,6 @@
+package br.com.cesarreolon.fullstackweek.repository;
+
+
+public interface GruposPrioritariosRepository extends JpaRepository<GruposPrioritarios, Long> {
+
+}

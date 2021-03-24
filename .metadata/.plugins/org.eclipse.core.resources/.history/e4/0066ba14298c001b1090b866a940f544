@@ -1,0 +1,6 @@
+package br.com.cesarreolon.fullstackweek.repository;
+
+
+public interface PessoaRepository extends JpaRepository<Pessoa, Long>{
+
+}

@@ -1,0 +1,5 @@
+package br.com.cesarreolon.fullstackweek.repository;
+
+public interface PessoaRepository {
+
+}
